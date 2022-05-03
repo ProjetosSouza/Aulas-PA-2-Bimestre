@@ -1,0 +1,4 @@
+TESTE DE MESA
+
+cotacao     valor_reais     valor_em_dolar
+ 4,5           100               22,22

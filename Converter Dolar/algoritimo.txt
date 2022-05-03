@@ -1,0 +1,6 @@
+Algoritmo Converter_Dados
+  Digite o valor da cotaçao e armazene em cotacao
+  Digite a quantia em reais e armazene em Valor_Reais
+  Faça Valor_em_Dolar = Valor_Reais/cotacao
+  Mostre Valor_em_Dolar
+Fim Algoritmo
