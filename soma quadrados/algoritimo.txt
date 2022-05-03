@@ -1,0 +1,8 @@
+Algoritmo soma_quadrados
+  Digite o valor do primeiro numero e armazene em n1
+  Digite o valor do segundo numero e armazene em n2
+  Digite o valor do terceiro numero e armazene em n3
+  Digite o valor do quarto numero e armazene em n4
+  Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) e atribua em resultado
+  Mostre resultado
+Fim Algoritmo
