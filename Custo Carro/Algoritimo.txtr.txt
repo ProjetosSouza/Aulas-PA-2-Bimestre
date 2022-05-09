@@ -1,0 +1,7 @@
+Algoritimo CalculaPreco
+  Entre com o preco de custo do carro e armazene em preco_custo
+  Faça imposto = preco_custo * 1,05
+  Faça tranporte = imposto * 1,28
+  Faça custo_final = transporte 
+  Mostre custo_final
+FimAgoritimo

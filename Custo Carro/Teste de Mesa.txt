@@ -1,0 +1,4 @@
+TESTE DE MESA 
+
+preco_custo      imposto(+45%)     transporte(+28%)     custo_consumidor
+  25.000        36.250 (11.250)     46.400 (10.150)          46.400
