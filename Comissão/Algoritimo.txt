@@ -1,0 +1,5 @@
+Digite o preço unitário das peças
+  Digite a quantidade de peças
+  Faça valor_vendas=preco*qntd
+  Faça comissao=valor_vendas*0.05
+  Mostre comissao

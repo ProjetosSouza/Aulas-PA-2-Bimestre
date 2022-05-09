@@ -1,0 +1,4 @@
+TESTE DE MESA
+
+Preco     Qntd     Valor_vendas     Comissao
+ 2.5      200          500              25
