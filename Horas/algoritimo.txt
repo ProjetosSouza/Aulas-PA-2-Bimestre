@@ -1,0 +1,6 @@
+Algoritmo Hora
+  Entre com as horas e armazene em hora
+  Entre com os minutos e armazene em min
+  Faça total = (min/60) + hora
+  Mostre total
+FimAlgoritmo
